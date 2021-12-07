@@ -126,5 +126,6 @@ while True:
         break 
     if score_b == 3: 
         break 
+        
 
 # The game ends without calling out who wins
